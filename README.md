@@ -176,7 +176,7 @@ Feel free to fork, submit pull requests, or open issues.
 
 ## 📞 Support
 
-For any questions or support, please contact the repository owner via GitHub or refer to the "Need Help? Contact Support" message within the dashboard.
+For any questions or support, please contact the repository owner via GitHub or refer to the Gmail i.e sharmaakhil944@gmail.com .
 
 ---
 
